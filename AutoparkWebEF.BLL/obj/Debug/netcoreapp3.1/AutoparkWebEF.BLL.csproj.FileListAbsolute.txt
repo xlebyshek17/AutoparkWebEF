@@ -1,0 +1,15 @@
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\bin\Debug\netcoreapp3.1\AutoparkWebEF.BLL.deps.json
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\bin\Debug\netcoreapp3.1\AutoparkWebEF.BLL.dll
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\bin\Debug\netcoreapp3.1\AutoparkWebEF.BLL.pdb
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\obj\Debug\netcoreapp3.1\AutoparkWebEF.BLL.csprojAssemblyReference.cache
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\obj\Debug\netcoreapp3.1\AutoparkWebEF.BLL.AssemblyInfoInputs.cache
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\obj\Debug\netcoreapp3.1\AutoparkWebEF.BLL.AssemblyInfo.cs
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\obj\Debug\netcoreapp3.1\AutoparkWebEF.BLL.csproj.CoreCompileInputs.cache
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\obj\Debug\netcoreapp3.1\AutoparkWebEF.BLL.dll
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\obj\Debug\netcoreapp3.1\AutoparkWebEF.BLL.pdb
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\bin\Debug\netcoreapp3.1\AutoparkWebEF.DAL.dll
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\bin\Debug\netcoreapp3.1\AutoparkWebEF.DAL.pdb
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\obj\Debug\netcoreapp3.1\AutoparkWebEF.BLL.csproj.CopyComplete
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\bin\Debug\netcoreapp3.1\AutoparkWebEF.BLL.runtimeconfig.json
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\bin\Debug\netcoreapp3.1\AutoparkWebEF.BLL.runtimeconfig.dev.json
+V:\dev\AutoparkProject\AutoparkWebEF.BLL\obj\Debug\netcoreapp3.1\AutoparkWebEF.BLL.genruntimeconfig.cache

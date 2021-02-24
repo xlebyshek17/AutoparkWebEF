@@ -1,0 +1,12 @@
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\bin\Debug\netcoreapp3.1\AutoparkWebEF.DAL.deps.json
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\bin\Debug\netcoreapp3.1\AutoparkWebEF.DAL.runtimeconfig.json
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\bin\Debug\netcoreapp3.1\AutoparkWebEF.DAL.runtimeconfig.dev.json
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\bin\Debug\netcoreapp3.1\AutoparkWebEF.DAL.dll
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\bin\Debug\netcoreapp3.1\AutoparkWebEF.DAL.pdb
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\obj\Debug\netcoreapp3.1\AutoparkWebEF.DAL.csprojAssemblyReference.cache
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\obj\Debug\netcoreapp3.1\AutoparkWebEF.DAL.AssemblyInfoInputs.cache
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\obj\Debug\netcoreapp3.1\AutoparkWebEF.DAL.AssemblyInfo.cs
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\obj\Debug\netcoreapp3.1\AutoparkWebEF.DAL.csproj.CoreCompileInputs.cache
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\obj\Debug\netcoreapp3.1\AutoparkWebEF.DAL.dll
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\obj\Debug\netcoreapp3.1\AutoparkWebEF.DAL.pdb
+V:\dev\AutoparkProject\AutoparkWebEF.DAL\obj\Debug\netcoreapp3.1\AutoparkWebEF.DAL.genruntimeconfig.cache
